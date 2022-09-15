@@ -17,3 +17,23 @@ header h2{
     color: #800000;
     text-indent: 30px;
 }
+img{
+    float: left;
+}
+.shadow {
+    text-shadow: 2px 2px 2px;
+    color:rgb(128, 0, 0);
+}
+main { clear: left; }
+
+header h3{
+    margin-top: 3em;
+    font-size: 105%;
+}
+ul {
+    line-height:1.5em;
+}
+footer p{
+        text-align:center;
+        font-size: 80%;
+}
