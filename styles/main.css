@@ -21,8 +21,7 @@ img{
     float: left;
 }
 .shadow {
-    text-shadow: 2px 2px 2px;
-    color:rgb(128, 0, 0);
+    text-shadow: 2px 2px 2px rgb(128, 0, 0);
 }
 main { clear: left; }
 
@@ -30,7 +29,7 @@ header h3{
     margin-top: 3em;
     font-size: 105%;
 }
-ul {
+#list {
     line-height:1.5em;
 }
 footer p.copyright{
