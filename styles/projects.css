@@ -45,10 +45,7 @@ article{
     margin-left: 2em;
     clear: left;
     border-bottom:solid,black;
-}
-article h3{
-    border-bottom:solid,black;
-    
+    border-top:solid, black;
 }
 article h3{
     column-span: all;
