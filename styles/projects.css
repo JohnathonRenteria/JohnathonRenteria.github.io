@@ -45,9 +45,10 @@ article{
     margin-left: 2em;
     clear: left;
     border-bottom:solid,black;
-    border-top:solid,black;
-
-
+}
+article h3{
+    border-bottom:solid,black;
+    
 }
 article h3{
     column-span: all;
@@ -84,6 +85,6 @@ p.fixed{
     right: 0;
     border: 3px solid darkgreen;
     background-color: lightgreen;
-    padding: 5px;
-    
+    padding: 10px;
+
 }
