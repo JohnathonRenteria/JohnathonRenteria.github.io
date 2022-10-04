@@ -43,6 +43,8 @@ article{
     column-rule: 2px dotted maroon;
     column-gap: 2em;
     margin-left: 2em;
+    clear: left;
+    
 }
 article h3{
     column-span: all;
