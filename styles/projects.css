@@ -44,11 +44,10 @@ article{
     column-gap: 2em;
     margin-left: 2em;
     clear: left;
-    border-bottom:solid,black;
-    border-top:solid, black;
 }
 article h3{
     column-span: all;
+    border-bottom:2px, solid, black;
 }
 article img{
     float: left;
