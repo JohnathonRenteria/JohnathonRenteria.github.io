@@ -48,6 +48,8 @@ article{
 article h3{
     column-span: all;
     border-bottom:2px, solid, black;
+    border-top: 2px, solid, black;
+    
 }
 article img{
     float: left;
