@@ -1,0 +1,23 @@
+html{
+    background-image: linear-gradient(to left, white 0%, #facd8a 100%);
+}
+#nav_menu ul {list-style-type: none;}
+#nav_menu ul li{float: left;}
+#nav_menu ul li a {
+    text-allign:center;
+    display:block;
+    width:175px;
+    padding:1em 0;
+
+    text-decoration:none;
+    background-color:blue;
+    color:white;
+    font-weight:bold;
+    border-right:2px solid white;}
+
+aside ol{
+    list-style-type:upper-roman;
+}
+aside ul{
+    list-style-type:square;
+}
