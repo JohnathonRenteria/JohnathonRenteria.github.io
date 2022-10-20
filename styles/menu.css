@@ -26,3 +26,7 @@ aside ol{
 aside ul{
     list-style-type:square;
 }
+h2 img{
+    float: left;
+    margin-left: 2em
+}
