@@ -1,4 +1,6 @@
-html{}
+html{
+    background-image: white;
+}
 #nav_menu ul {list-style-type: none;}
 #nav_menu ul li{float: left;}
 #nav_menu ul li a {
