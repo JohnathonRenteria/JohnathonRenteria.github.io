@@ -1,6 +1,4 @@
-html{
-    background-image: linear-gradient(to left, white 0%, #facd8a 100%);
-}
+html{}
 #nav_menu ul {list-style-type: none;}
 #nav_menu ul li{float: left;}
 #nav_menu ul li a {
