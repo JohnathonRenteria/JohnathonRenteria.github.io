@@ -1,5 +1,5 @@
 html{
-    background-image: white;
+    background-image: linear-gradient(to right, white, blue 100%);
 }
 #nav_menu ul {list-style-type: none;}
 #nav_menu ul li{float: left;}
