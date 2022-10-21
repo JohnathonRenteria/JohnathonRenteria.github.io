@@ -14,6 +14,16 @@ html{
     color:white;
     font-weight:bold;
     border-right:2px solid white;}
+
+h2 #Introduction, #Background, #Method, #Analysis, #Results, #Discussion{
+    color:darkblue;
+    font-style:bold;
+}
+h1{
+    color:darkblue;
+    font-style:bold;
+}
+
 article h2 p::first-letter {
     font-weight:bold;
     font-style:italic;
