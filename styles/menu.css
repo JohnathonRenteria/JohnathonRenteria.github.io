@@ -17,7 +17,7 @@ html{
     border-bottom:2px solid darkblue;
 }
 nav{
-    border-bottom:2px, solid, black;
+    border: bottom 5px solid darkblue;
 }
 body{
     clear:top
@@ -64,8 +64,8 @@ aside{
     position: fixed;
     bottom: 35%;
     right: 0;
-    border: 3px solid darkblue;
-    background-color: darkblue;
+    border: 3px solid lightblue;
+    background-color: lightblue;
     padding: 20px;
     }
 
