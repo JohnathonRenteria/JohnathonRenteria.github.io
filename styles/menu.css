@@ -55,6 +55,7 @@ article{
     column-count: 3;
     column-rule: 2px dotted darkblue;
     column-gap: 4em;
+    column-span:all;
     margin-left: 3em;
     clear: left;
 }
