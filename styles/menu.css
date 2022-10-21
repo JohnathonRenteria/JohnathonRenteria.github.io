@@ -39,8 +39,6 @@ h2 img{
 }
 footer p.copyright{
     text-align:center;
-    border-top:2px, sold, black;
-    
 }
 body{
     width:95%;
@@ -58,9 +56,13 @@ article{
 aside{
     position:fixed;
     clear:right;
-    margin: 10em;
+    margin: 30em;
 
 }
 h1{
     
+}
+footer{
+    clear: both;
+    border-top: 2px solid black;
 }
