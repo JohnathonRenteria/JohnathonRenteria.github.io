@@ -1,5 +1,5 @@
 html{
-    background-image: linear-gradient(to right, white, blue 100%);
+    background-image: linear-gradient(white 100%);
 }
 #nav_menu ul {list-style-type: none;}
 #nav_menu ul li{float: left;}
@@ -40,6 +40,12 @@ body{
 }
 article{
     width:75%;
+    float: left;
+    column-count: 2;
+    column-rule: 2px dotted maroon;
+    column-gap: 2em;
+    margin-left: 2em;
+    clear: left;
 }
 aside{
 }
