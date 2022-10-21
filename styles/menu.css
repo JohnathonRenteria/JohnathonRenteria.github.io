@@ -8,12 +8,14 @@ html{
     display:block;
     width:175px;
     padding:1em 0;
-
+    clear:both;
     text-decoration:none;
     background-color:blue;
     color:white;
     font-weight:bold;
-    border-right:2px solid white;}
+    border-right:2px solid white;
+    border-bottom:2px solid darkblud;
+}
 nav{
     border-bottom:2px, solid, black;
 }
