@@ -57,7 +57,7 @@ article{
 }
 aside{
     position:fixed;
-    clear:right;
+    clear:left;
     margin: 45em;
 
 }
