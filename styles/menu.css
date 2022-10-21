@@ -70,7 +70,7 @@ aside{
     }
 
 h1{
-    
+    clear:top;
 }
 footer{
     clear: both;
