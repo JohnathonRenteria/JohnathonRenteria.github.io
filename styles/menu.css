@@ -59,8 +59,12 @@ aside{
     position:fixed;
     clear:left;
     margin: 45em;
+    width: 20%;
+    float: right;
+    background-color: #ffebc6;
+    padding: 0.1em 1em 1em;
+    }
 
-}
 h1{
     
 }
