@@ -14,7 +14,7 @@ html{
     color:white;
     font-weight:bold;
     border-right:2px solid white;
-    border-bottom:2px solid darkblud;
+    border-bottom:2px solid darkblue;
 }
 nav{
     border-bottom:2px, solid, black;
@@ -58,7 +58,7 @@ article{
 aside{
     position:fixed;
     clear:right;
-    margin: 60em;
+    margin: 45em;
 
 }
 h1{
