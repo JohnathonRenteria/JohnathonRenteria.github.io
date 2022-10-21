@@ -52,7 +52,7 @@ article{
     width:75%;
     float: left;
     column-count: 2;
-    column-rule: 2px dotted maroon;
+    column-rule: 2px dotted darkblue;
     column-gap: 2em;
     margin-left: 2em;
     clear: left;
