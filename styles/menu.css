@@ -14,6 +14,9 @@ html{
     color:white;
     font-weight:bold;
     border-right:2px solid white;}
+nav{
+    border-bottom:2px, solid, black;
+}
 
 #Introduction, #Background, #Method, #Analysis, #Results, #Discussion{
     color:darkblue;
@@ -36,7 +39,7 @@ h2 img{
 }
 footer p.copyright{
     text-align:center;
-    position:fixed;
+    border-top:2px, sold, black;
     
 }
 body{
@@ -54,9 +57,9 @@ article{
 }
 aside{
     position:fixed;
-    clear:left;
+    clear:right;
     margin: 10em;
-    
+
 }
 h1{
     
