@@ -58,11 +58,11 @@ article{
 aside{
     position:fixed;
     clear:left;
-    margin: 55em;
+    margin: 50em;
     width: 20%;
     float: right;
     background-color: lightblue;
-    padding: 1em 1em 1em;
+    padding: .1em 1em 1em;
     }
 
 h1{
