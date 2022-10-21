@@ -19,6 +19,9 @@ html{
 nav{
     border-bottom:2px, solid, black;
 }
+body{
+    clear:top
+}
 
 #Introduction, #Background, #Method, #Analysis, #Results, #Discussion{
     color:darkblue;
