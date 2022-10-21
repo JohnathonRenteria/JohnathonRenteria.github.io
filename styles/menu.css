@@ -36,6 +36,7 @@ h2 img{
 }
 footer p.copyright{
     text-align:center;
+    position:fixed;
     
 }
 body{
@@ -52,6 +53,10 @@ article{
     clear: left;
 }
 aside{
+    position:fixed;
+    clear:left;
+    margin: 10em;
+    
 }
 h1{
     
