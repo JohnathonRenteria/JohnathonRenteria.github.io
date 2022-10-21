@@ -56,7 +56,7 @@ article{
 aside{
     position:fixed;
     clear:right;
-    margin: 30em;
+    margin: 60em;
 
 }
 h1{
@@ -64,5 +64,5 @@ h1{
 }
 footer{
     clear: both;
-    border-top: 2px solid black;
+    border-top: 2px solid darkblue;
 }
