@@ -59,13 +59,13 @@ article{
     clear: left;
 }
 aside{
-    position:fixed;
-    clear:left;
-    margin: 49em;
-    width: 20%;
-    float: right;
-    background-color: lightblue;
-    padding: .1em 1em 1em;
+    width: auto;
+    position: fixed;
+    bottom: 35%;
+    right: 0;
+    border: 3px solid darkgreen;
+    background-color: lightgreen;
+    padding: 20px;
     }
 
 h1{
