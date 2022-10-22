@@ -32,7 +32,7 @@ h2 ::first-letter{
     font-style:bold;
 }
 
-h1{
+h1 p{
     color:darkblue;
     font-style:bold;
     border-bottom: 2px,solid,darkblue;
@@ -46,7 +46,8 @@ aside ul{
 }
 h2 img{
     float: left;
-    margin-left: 2em
+    margin-right: 2em;
+    margin-bottom: 2em;
 }
 footer p.copyright{
     text-align:center;
