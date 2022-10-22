@@ -27,6 +27,11 @@ body{
     color:darkblue;
     font-style:bold;
 }
+
+h2 ::first-letter{
+    font-style:bold;
+}
+
 h1{
     color:darkblue;
     font-style:bold;
