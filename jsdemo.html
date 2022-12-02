@@ -1,4 +1,13 @@
-<h1>The Test Scores App</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>The Test Scores App</h1>
 <script src="test_scores.js"></script>   
 <h1>The Miles Per Gallon Calculator</h1>
 <script>
@@ -10,3 +19,16 @@
                         <p>MPG: ${mpg.toFixed(2)}</p>`;
         document.write(html2);
 </script>    
+<h2>The Rectangle Area Calculator</h2>
+<script src="rectange_area.js"></script>
+<h1>The Rectangle Area Calculator</h1>
+<script>
+        const length = parseFloat(prompt("Enter Length of Rectangle"));
+        const width = parseFloat(prompt("Enter Width of Rectangle"));
+        const area = parseFloat(length*width);
+        const html4 = <p>Length: ${length}</p>
+                      //<p>Width: ${width}</p>
+                      //<p>Area: ${area.toFixed(3)}</p>;
+</script>
+</body>
+</html>
