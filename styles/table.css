@@ -34,4 +34,16 @@ html, body {
     table.second thead tr:first-child{     
         border-bottom: 2px solid purple;
     }
+
+    table.third {
+        border-collapse: collapse;
+        caption-side: top;
+    }
+    table.third th{
+        background-color: lightgreen;
+    }
+    table.third th, table.third td {
+        padding: 0.7em;
+        vertical-align: middle;
+    }
     
