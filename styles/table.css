@@ -38,6 +38,7 @@ html, body {
     table.third {
         border-collapse: collapse;
         caption-side: top;
+        border: 2px solid white;
     }
     table.third th{
         background-color: lightgreen;
@@ -45,5 +46,10 @@ html, body {
     table.third th, table.third td {
         padding: 0.7em;
         vertical-align: middle;
+        border: 2px solid white;
+    }
+
+    table.third thead tr:first-child{
+        border-top: 2px solid red;
     }
     
