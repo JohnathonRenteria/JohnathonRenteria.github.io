@@ -1,8 +1,8 @@
-const length = parseFloat(prompt("Enter Length of Rectangle"));
+let length = parseFloat(prompt("Enter Length of Rectangle"));
 
-const width = parseFloat(prompt("Enter Width of Rectangle"));
+let width = parseFloat(prompt("Enter Width of Rectangle"));
 
-const area = parseFloat((length)*(width));
+let area = parseFloat((length)*(width));
 
 const html3 = `<p>Length = ${length}</p>
                <p>Width = ${width}</p>
