@@ -1,18 +1,10 @@
-let total = 0;
+const length = parseFloat(prompt("Enter Length of Rectangle"));
 
-const score1 = parseInt(prompt("Enter test score"));
-total += score1;        
+const width = parseFloat(prompt("Enter Width of Rectangle"));
 
-const score2 = parseInt(prompt("Enter test score"));
-total += score2;
+const area = parseFloat(length*width);
 
-const score3 = parseInt(prompt("Enter test score"));
-total += score3;
-
-const average = parseInt(total/3);
-
-const html1 = `<p>Score 1 = ${score1}</p>
-              <p>Score 2 = ${score2}</p>
-              <p>Score 3 = ${score3}</p>
-              <p>Average score = ${average}</p>`;
-document.write(html1);
+const html4 = `<p>Length = ${length}</p>
+               <p>Width = ${width}</p>
+               <p>Area = ${area.toFixed(3)}</p`;
+document.write(html3;)
