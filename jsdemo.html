@@ -20,6 +20,17 @@
         document.write(html2);
 </script>    
     <h3>The Rectangle Area Calculator</h3>
-<script src="rectange_area.js"></script>
+<script>
+    let length = parseFloat(prompt("Enter Length of Rectangle"));
+
+    let width = parseFloat(prompt("Enter Width of Rectangle"));
+
+    let area = parseFloat((length)*(width));
+
+    let html3 = `<p>Length = ${length}</p>
+               <p>Width = ${width}</p>
+               <p>Area = ${area.toFixed(3)}</p`;
+document.write(html3);
+</script>
 </body>
 </html>
