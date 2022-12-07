@@ -38,7 +38,6 @@ html, body {
     table.third {
         border-collapse: collapse;
         caption-side: top;
-        border: 2px solid white;;
     }
     table.third th{
         background-color: lightgreen;
