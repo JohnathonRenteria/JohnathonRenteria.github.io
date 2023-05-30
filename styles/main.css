@@ -63,6 +63,11 @@ body {
     max-width: 5px;
     border-radius: 50%;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    
+  }
+  img.float-right {
+    float: right;
+    margin: 0 0 20px 20px;
   }
   
   h2 {
