@@ -99,10 +99,17 @@ body {
   .contact a {
     display: block;
     margin-bottom: 5px;
-    color: darkblue
   }
   
   .contact a:last-child {
     margin-bottom: 0;
+  }
+
+  a[href="https://www.linkedin.com/in/johnathon-renteria-997056210"] {
+    color: #0A66C2; /* Color for LinkedIn link */
+  }
+  
+  a[href="https://github.com/JohnathonRenteria"] {
+    color: #0A66C2; /* Color for GitHub link */
   }
   
