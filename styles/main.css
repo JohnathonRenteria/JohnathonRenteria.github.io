@@ -99,6 +99,7 @@ body {
   .contact a {
     display: block;
     margin-bottom: 5px;
+    color: darkblue
   }
   
   .contact a:last-child {
