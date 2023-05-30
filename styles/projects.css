@@ -1,88 +1,54 @@
-html{
-    background-image: linear-gradient(to left, white 0%, #facd8a 100%);
-}
+/* styles.css */
 
 body {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 100%;
-    width: 90%;
-    background-color:white;
-    margin: 15px auto;
-    padding: 15px 1.5em;
-    border: 1px solid black;
-    border-radius: 25px;
-    box-shadow: 5px 5px 0 0;
-}
-a:focus, a:hover{
-    font-style: italic;
-    border: 3px blue;
-    border-style: dotted solid;
-    color:orangered;
-}
-header h1{
-    font-size: 175%;
-    color: maroon;
-    text-indent: 30px;
-}
-header h2{
-    font-size: 130%;
-    color: #800000;
-    text-indent: 30px;
-}
-header img{
-    float: left;
-    margin-left: 2em
-}
-.shadow {
-    text-shadow: 2px 2px 2px rgb(128, 0, 0);
-}
-article{
-    width: 70%;
-    float: left;
-    column-count: 2;
-    column-rule: 2px dotted maroon;
-    column-gap: 2em;
-    margin-left: 2em;
-    clear: left;
-}
-article h3{
-    column-span: all;
-    border-bottom:2px, solid, black;
-    border-top: 2px, solid, black;
-    
-}
-article img{
-    float: left;
-    margin-right: 1em;
-    margin-bottom: 1em;
-}
-article p::first-letter{
-    font-size: 3em;
-    font-weight: bold;
-    font-style: italic;
-    color: lightgreen;
-}
-aside{
-    width: 20%;
-    float: right;
-    background-color: #ffebc6;
-    padding: 0.1em 1em 1em;
-}
-footer{
-    clear: both;
-    border-top: 2px solid maroon;
-}
-footer p.copyright{
-    text-align:center;
-    font-size: 80%;
-}
-p.fixed{
-    width: auto;
-    position: fixed;
-    bottom: 35%;
-    right: 0;
-    border: 3px solid darkgreen;
-    background-color: lightgreen;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
     padding: 20px;
-
-}
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 28px;
+  }
+  
+  p {
+    font-size: 18px;
+    line-height: 1.5;
+  }
+  
+  img {
+    display: block;
+    margin: 20px auto;
+    max-width: 300px;
+    border-radius: 50%;
+  }
+  
+  main {
+    margin: 20px;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-top: 30px;
+  }
+  
+  ul {
+    list-style-type: disc;
+    margin-left: 20px;
+  }
+  
+  a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
