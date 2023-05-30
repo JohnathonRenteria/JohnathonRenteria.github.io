@@ -1,70 +1,54 @@
-html{
-    background-image: linear-gradient(to bottom, white 0%, #facd8a 100%);
-}
+/* styles.css */
 
 body {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 100%;
-    width: 1000px;
-    background-color:white;
-    margin: 15px auto;
-    padding: 15px 1.5em;
-    border: 1px solid black;
-    border-radius: 25px;
-    box-shadow: 5px 5px 0 0;
-}
-a:focus, a:hover{
-    font-style: italic;
-    color:orangered;
-}
-header h1{
-    font-size: 175%;
-    color: maroon;
-    text-indent: 30px;
-}
-header h2{
-    font-size: 130%;
-    color: #800000;
-    text-indent: 30px;
-}
-header img{
-    float: left;
-    margin-left: 2em
-}
-.shadow {
-    text-shadow: 2px 2px 2px rgb(128, 0, 0);
-}
-
-div.contact{
-    margin: 1.5em 2em 0em 2em;
-    border: 5px dotted blue;
-    border-radius: 20px;
-    box-shadow: 3px 3px 4px 4px red;
-    padding: 1em;
-}
-
-main { clear: left; }
-
-main nav{
-    margin: 1.5em 2em 1.5em;
-    border: 5px dashed blue;
-    border-radius: 20px;
-    box-shadow: 3px 3px 4px 4px red;
-    padding: .5em;
-}
-
-main h3{
-    margin: 2em 2em 2em 1.5em;
-    font-size: 105%;
-    border: 5px double blue;
-    border-radius: 20px;
-    box-shadow: 3px 3px 4px 4px red;
-    padding: 1em;
-}
-#list {
-    line-height:1.5em;
-}
-footer p.copyright{
-        text-align:center;
-        font-size: 80%;
-}
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 28px;
+  }
+  
+  p {
+    font-size: 18px;
+    line-height: 1.5;
+  }
+  
+  img {
+    display: block;
+    margin: 20px auto;
+    max-width: 300px;
+    border-radius: 50%;
+  }
+  
+  main {
+    margin: 20px;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-top: 30px;
+  }
+  
+  ul {
+    list-style-type: disc;
+    margin-left: 20px;
+  }
+  
+  a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
