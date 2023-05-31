@@ -66,9 +66,9 @@ body {
     float: right;
     
   }
-  img.float-right {
+  .float-right {
     float: right;
-    margin: 0 0 20px 20px;
+    margin: 0 0 10px 10px; /* Adjust the margin values as needed */
   }
   
   h2 {
