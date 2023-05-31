@@ -113,4 +113,10 @@ body {
   a[href="https://github.com/JohnathonRenteria"] {
     color: #0A66C2; /* Color for GitHub link */
   }
+  .section-wrapper {
+    float: left;
+    width: 50%;
+    box-sizing: border-box;
+    padding: 0 10px;
+  }
   
